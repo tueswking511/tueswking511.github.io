@@ -25,7 +25,7 @@
     },
     {
         "id": "Sound3",
-        "label": "\u53f0\u5317\u79d1\u6280\u5927\u5b78(\u65b0\u751f\u5357\u8def)",
+        "label": "\u53f0\u5317\u79d1\u6280\u5927\u5b78 \u65b0\u751f\u5357\u8def",
         "googlemaps": "https://goo.gl/maps/C5oeMrRyopE2",
         "vol": 1,
         "db": 0.4,
